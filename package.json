@@ -1,0 +1,9 @@
+{
+  "name": "nughacloud-node",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@replit/protocol": "0.6.2",
+    "ws": "8.18.0"
+  }
+}
